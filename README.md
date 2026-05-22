@@ -119,16 +119,6 @@ streamlit run app.py
 
 ---
 
-# 📸 Demo
-
-Add screenshots inside:
-
-```text
-screenshots/
-```
-
----
-
 # 👨‍💻 Author
 
 Varun Bukka
