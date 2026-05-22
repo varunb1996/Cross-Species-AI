@@ -49,6 +49,14 @@ Current dataset includes:
 
 The system can easily be extended with additional species.
 
+## Full Dataset
+
+Due to repository size limitations, only sample audio files are included.
+
+Full dataset can be expanded by adding more `.wav` files inside:
+
+data/audio/<species_name>/
+
 ---
 
 # ⚙️ How It Works
